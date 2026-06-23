@@ -12,7 +12,7 @@ limitations.
 |---|---|---|---|
 | 01 | [Invoice Overdue-Days Prediction](./01-invoice-overdue-prediction) | Regression | Multicollinearity diagnosis, feature selection |
 | 02 | [Leukemia Remission Prediction](./02-cancer-remission-classification) | Classification | Data corruption detection, small-sample evaluation (LOOCV) |
-| 03 | *(coming soon)* | | |
+| 03 | [Telecom Churn Prediction](./03-telecom-churn-decision-tree) | Classification (Decision Tree) | Class imbalance, balanced accuracy, feature importance |
 | 04 | *(coming soon)* | | |
 | 05 | *(coming soon)* | | |
 

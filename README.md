@@ -11,7 +11,7 @@ limitations.
 | # | Project | Type | Key skill |
 |---|---|---|---|
 | 01 | [Invoice Overdue-Days Prediction](./01-invoice-overdue-prediction) | Regression | Multicollinearity diagnosis, feature selection |
-| 02 | *(coming soon)* | | |
+| 02 | [Leukemia Remission Prediction](./02-cancer-remission-classification) | Classification | Data corruption detection, small-sample evaluation (LOOCV) |
 | 03 | *(coming soon)* | | |
 | 04 | *(coming soon)* | | |
 | 05 | *(coming soon)* | | |

@@ -13,8 +13,8 @@ limitations.
 | 01 | [Invoice Overdue-Days Prediction](./01-invoice-overdue-prediction) | Regression | Multicollinearity diagnosis, feature selection |
 | 02 | [Leukemia Remission Prediction](./02-cancer-remission-classification) | Classification | Data corruption detection, small-sample evaluation (LOOCV) |
 | 03 | [Telecom Churn Prediction](./03-telecom-churn-decision-tree) | Classification (Decision Tree) | Class imbalance, balanced accuracy, feature importance |
-| 04 | *(coming soon)* | | |
-| 05 | *(coming soon)* | | |
+| 04 | [Insurance Customer Segmentation](./04-insurance-customer-segmentation) | Clustering (K-Means) | Feature scaling, elbow method vs. silhouette score validation |
+| 05 | [Job Listings Web Scraper](./05-web-scraping-job-listings) | Web Scraping | BeautifulSoup, structured extraction, verification against real source |
 
 ## About
 
